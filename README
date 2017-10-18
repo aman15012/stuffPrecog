@@ -1,5 +1,5 @@
 Tasks done (Each in its own directory):
-1. Read the research paper
+1. Read the research paper http://precog.iiitd.edu.in/Publications_files/Dewan_Towards_ASONAM17.pdf
 2. Train a model on the CIFAR-10 dataset in Keras and explore it
 3. Use Twitter(I looked through the docs of Tweepy) and Facebook APIs
 4. Try OpenCV
