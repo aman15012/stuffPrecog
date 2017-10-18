@@ -1,0 +1,11 @@
+Tasks done (Each in its own directory):
+1. Read the research paper
+2. Train a model on the CIFAR-10 dataset in Keras and explore it
+3. Use Twitter(I looked through the docs of Tweepy) and Facebook APIs
+4. Try OpenCV
+
+- I tried using YOLO for object detection
+- I am midway through the CSE231n Stanford Course
+
+Tweepy:
+http://tweepy.readthedocs.io/en/v3.5.0/index.html#

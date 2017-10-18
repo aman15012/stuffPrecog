@@ -1,0 +1,22 @@
+I used python-openCV, a minimal installation of openCV.
+
+https://pythonprogramming.net/loading-images-python-opencv-tutorial/
+
+Bullets:
+We usually conver images to a lower form like grayscale etc.
+
+1.
+Opening image as grayscale
+
+2.
+Using webcam for video, openCV uses BGR insted of RGB
+
+3.
+The cv2.line() takes the following parameters: where, start coordinates, end coordinates, color (bgr), line thickness.
+Drawing and writing on images
+
+4.
+refrecing and modifying individual pixles and regions in images
+
+5.
+arithemetic operations on images and logical operations

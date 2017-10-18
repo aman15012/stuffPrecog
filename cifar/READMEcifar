@@ -1,0 +1,14 @@
+CIFAR 10 Dataset
+
+60000 32x32 colour images (depth = 3)
+10 classes general objects
+uniform distribution
+
+I explored the dataset and followed a tutorial to help build a CNN to classify the dataset (cifar.py) . I also tried varying the layer sizes/depth from tested models.
+
+The model did not work too well, but I got the basic idea about the dataset and using keras.
+
+50000/50000 [==============================] - 723s - loss: 1.7373 - acc: 0.3733 - val_loss: 1.4864 - val_acc: 0.4707
+Epoch 2/2
+50000/50000 [==============================] - 785s - loss: 1.4822 - acc: 0.4680 - val_loss: 1.3963 - val_acc: 0.5089
+Accuracy: 0.51

@@ -1,0 +1,21 @@
+Research paper bullets:
+
+Image Data analysis from OSNs
+Paris attacks mainly
+Contrasts b/w image data and text data
+Less studies on images till now:
+	Either small datasets and mannual process
+	Or On text data
+A. Data Collection
+	#tags --> Posts containing images --> Removal of duplicates (dHash)
+B. Image Characterization
+	3 Tier pipeline:
+	1. Theme detection. No fine tuning. Similar images give similar results
+	2. OCR -> Pytessaract
+	3. Sentiment detection. (using SentiBank)
+C. Analysis
+	Many images misinformed
+	Text gave more positive sentiment than images
+
+- Many points of misinterpretition could be there. Human involvement for verification
+- Amused that we can almost tell a story from images.

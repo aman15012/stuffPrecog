@@ -1,0 +1,8 @@
+http://facebook-sdk.readthedocs.io/en/latest/api.html
+https://developers.facebook.com/tools/explorer
+https://developers.facebook.com/docs/graph-api/reference/v2.10/
+
+I tried doing some basic stuff using the facebook graph api in python3.
+
+I created a small app which returns a timeline of people in your facebook life.
+Each year has a list of people who you interacted* with on facebook.
